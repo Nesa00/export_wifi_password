@@ -13,7 +13,7 @@ Exports retrieved information to a file (TXT, JSON, or XML formats are currently
 Provides options to show detailed information or a summary.
 
 
-Requirements:
+## Requirements:
 Python 3
 
 ## Usage:
