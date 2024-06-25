@@ -19,12 +19,13 @@ Python 3
 
 Run the script using python WWPE.py [options].
 ## Available options:
+```
 -h, --help: Show this help message and exit.
 -g, --get: Retrieves WiFi profiles and passwords (required).
 -e, --export: Exports retrieved information to a file (optional).
 -p, --path: Specify the path for the export file (optional, defaults to "export.txt").
 -d, --detail: Export detailed information (optional).
-
+```
 
 ## Examples:
 
