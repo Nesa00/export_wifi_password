@@ -29,15 +29,19 @@ Run the script using python WWPE.py [options].
 ## Examples:
 
 ### This retrieves WiFi profiles and passwords and shows a summary.
+```
 python wifi_password_retriever.py -g
-
+```
 
 ### This retrieves WiFi profiles and passwords and exports them to "export.txt" (summary).
+```
 python wifi_password_retriever.py -g -e
-
+```
 
 ### This retrieves WiFi profiles and passwords, exports them with detailed information to "export.json".
+```
 python wifi_password_retriever.py -g -e -d -p export.json
+```
 
 #### Disclaimer:
 
