@@ -11,14 +11,15 @@ Features:
 Retrieves WiFi profiles and passwords.
 Exports retrieved information to a file (TXT, JSON, or XML formats are currently supported).
 Provides options to show detailed information or a summary.
-Requirements:
 
+
+Requirements:
 Python 3
 
 ## Usage:
 
 Run the script using python WWPE.py [options].
-## Available options:
+### Available options:
 ```
 -h, --help: Show this help message and exit.
 -g, --get: Retrieves WiFi profiles and passwords (required).
